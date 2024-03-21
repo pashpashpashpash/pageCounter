@@ -27,3 +27,7 @@ Response example:
 dirCount - count of subdirectories;  
 pagesCount - count of pages of all supported documents;  
 err - information about some errors
+
+
+
+project was built with jdk amazon corretto 17.0.9
