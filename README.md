@@ -30,4 +30,4 @@ err - information about some errors
 
 
 
-project was built with jdk amazon corretto 17.0.9
+project was built with jdk amazon corretto 17.0.9 and gradle
