@@ -2,7 +2,7 @@
 
 Web application for getting page count of all supported documents (at this moment pdf, doc, docx)
 Doc and docx page counting don't work well because of these types of documents don't contain any information about page count,
-application tries to get this information from metadata that stored by rendering engines (Ms Word) after document rendering.
+application tries to get this information from metadata that sometimes stored by rendering engines (Ms Word) only after document rendering.
 
 To count pages send POST request to this url:
 
