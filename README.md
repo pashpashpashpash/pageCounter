@@ -24,6 +24,6 @@ Response example:
 }
 
 
-dirCount - count of subdirectories
-pagesCount - count of pages of all supported documents
+dirCount - count of subdirectories;  
+pagesCount - count of pages of all supported documents;  
 err - information about some errors
